@@ -50,7 +50,7 @@ export default function Home() {
                      <div className="w-full max-w-md bg-white rounded-2xl shadow-2xl p-8 space-y-8">
                             <div className="text-center space-y-2">
                                    <h1 className="text-4xl font-extrabold text-slate-800 tracking-tight">
-                                          Short<span className="text-indigo-600">Link</span>
+                                          Cloud<span className="text-indigo-600">Link</span>
                                    </h1>
                                    <p className="text-slate-500">Simplify your links in seconds.</p>
                             </div>

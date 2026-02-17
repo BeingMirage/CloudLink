@@ -6,7 +6,7 @@ import { cn } from "@/lib/utils";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-       title: "URL Shortener MVP",
+       title: "CloudLink - URL Shortener",
        description: "Simple, fast, and scalable URL shortener",
 };
 
